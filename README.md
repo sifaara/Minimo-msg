@@ -1,3 +1,3 @@
 # Minimo-msg
 psd to html
-https://github.com/sifaara/Minimo-msg/settings/pages
+https://sifaara.github.io/Minimo-msg/
